@@ -66,7 +66,7 @@ Copy the **connection pooling URL** (important for serverless).
 |---|---|
 | `DATABASE_URL` | Postgres connection pooling URL |
 | `NEXTAUTH_SECRET` | `openssl rand -base64 32` |
-| `NEXTAUTH_URL` | `https://your-app.vercel.app` |
+| `NEXTAUTH_URL` | `https://picselect.vercel.app/` |
 | `GOOGLE_CLIENT_ID` | From Google Cloud Console |
 | `GOOGLE_CLIENT_SECRET` | From Google Cloud Console |
 | `NEXT_PUBLIC_APP_URL` | `https://your-app.vercel.app` |
