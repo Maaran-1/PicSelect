@@ -51,12 +51,12 @@ export default function SuccessPage({
           </ul>
         </div>
 
-        <button
-          onClick={() => window.history.back()}
+        <Link
+          href="/"
           className="text-gray-400 hover:text-white text-sm transition underline underline-offset-4"
         >
           ← Go back to gallery
-        </button>
+        </Link>
       </div>
     </div>
   );
